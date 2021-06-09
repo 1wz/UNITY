@@ -1,0 +1,7 @@
+C:\Users\Админ\source\repos\lesson2\lesson2houmwork\bin\Debug\lesson2houmwork.exe.config
+C:\Users\Админ\source\repos\lesson2\lesson2houmwork\bin\Debug\lesson2houmwork.exe
+C:\Users\Админ\source\repos\lesson2\lesson2houmwork\bin\Debug\lesson2houmwork.pdb
+C:\Users\Админ\source\repos\lesson2\lesson2houmwork\obj\Debug\lesson2houmwork.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\lesson2\lesson2houmwork\obj\Debug\lesson2houmwork.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\lesson2\lesson2houmwork\obj\Debug\lesson2houmwork.exe
+C:\Users\Админ\source\repos\lesson2\lesson2houmwork\obj\Debug\lesson2houmwork.pdb
