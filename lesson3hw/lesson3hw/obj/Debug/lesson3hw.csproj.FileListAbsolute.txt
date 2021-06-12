@@ -1,0 +1,7 @@
+C:\Users\Админ\source\repos\UNITY\lesson3hw\lesson3hw\obj\Debug\lesson3hw.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\UNITY\lesson3hw\lesson3hw\obj\Debug\lesson3hw.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\UNITY\lesson3hw\lesson3hw\bin\Debug\lesson3hw.exe.config
+C:\Users\Админ\source\repos\UNITY\lesson3hw\lesson3hw\bin\Debug\lesson3hw.exe
+C:\Users\Админ\source\repos\UNITY\lesson3hw\lesson3hw\bin\Debug\lesson3hw.pdb
+C:\Users\Админ\source\repos\UNITY\lesson3hw\lesson3hw\obj\Debug\lesson3hw.exe
+C:\Users\Админ\source\repos\UNITY\lesson3hw\lesson3hw\obj\Debug\lesson3hw.pdb
