@@ -92,7 +92,7 @@ namespace lesson3hw
             #endregion
         }
         static void Main(string[] args)
-        {/*
+        {
             #region задача 1 класс с умножением и switch
             complex rez=new complex();
             complex c1 = new complex();
@@ -141,7 +141,7 @@ namespace lesson3hw
             Console.ReadLine();
             Console.Clear();
             #endregion
-*/
+
             #region задача 3 класс дробей
             dro d1 = new dro();
             dro d2 = new dro();
@@ -169,7 +169,7 @@ namespace lesson3hw
                 d2.B = int.Parse(Console.ReadLine());
                 switch (sym)
                 {
-                    case "+": otv = dro.sum(d1,d2); break;
+                    case "+": otv = d1 + d2; break;
                     case "-": otv= dro.raz(d1, d2); break;
                     case "*": otv = dro.pr(d1, d2); break;
                     case "/": otv = dro.ср(d1, d2); break;

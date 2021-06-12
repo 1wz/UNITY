@@ -140,6 +140,17 @@ namespace lesson3hw
             return A+"/"+B;
 
         }
+
+        /// <summary>
+        /// Перегрузка оператора +, сложение дробей
+        /// </summary>
+        /// <param name="complex1">дробь</param>
+        /// <param name="complex2">дробь</param>
+        /// <returns>Результат сложения дробей</returns>
+        public static dro operator +(dro x, dro y)
+        {
+            return new dro { A = x.A * y.B + y.A * x.B, B = x.B*y.B };
+        }
         #endregion
     }
 }
