@@ -1,0 +1,7 @@
+C:\Users\Админ\source\repos\lesson5\lesson5\bin\Debug\lesson5.exe.config
+C:\Users\Админ\source\repos\lesson5\lesson5\bin\Debug\lesson5.exe
+C:\Users\Админ\source\repos\lesson5\lesson5\bin\Debug\lesson5.pdb
+C:\Users\Админ\source\repos\lesson5\lesson5\obj\Debug\lesson5.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\lesson5\lesson5\obj\Debug\lesson5.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\lesson5\lesson5\obj\Debug\lesson5.exe
+C:\Users\Админ\source\repos\lesson5\lesson5\obj\Debug\lesson5.pdb
