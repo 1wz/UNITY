@@ -7,9 +7,18 @@ using System.Threading.Tasks;
 
 namespace lesson5
 {
+    /// <summary>
+    /// класс к задаче 2
+    /// </summary>
     static class Massage
     {
         public static string[] separators = { ",", ".", "!", "?", ";", ":", " " };
+
+        /// <summary>
+        /// выводит слова длинна которых не больше п
+        /// </summary>
+        /// <param name="ss">исходное сообщение</param>
+        /// <param name="n">макс длина слов</param>
         public static void notMoreN(string ss, int n)
         {
             string[] words = ss.Split(separators, StringSplitOptions.RemoveEmptyEntries);
@@ -22,6 +31,12 @@ namespace lesson5
             }
         }
 
+        /// <summary>
+        /// удаляет слова заканчивающиеся на переданный символ
+        /// </summary>
+        /// <param name="ss">исходное сообщение</param>
+        /// <param name="c">символ</param>
+        /// <returns>обработанное сообщение</returns>
         public static string DelEndOfC(string ss, string c)
         {
 
@@ -29,6 +44,11 @@ namespace lesson5
             return ss;
         }
 
+        /// <summary>
+        /// ищет самое длинное слово в сообщении или несколько( если длина одинаковая)
+        /// </summary>
+        /// <param name="ss">сообщение</param>
+        /// <returns>изм. строка с длинными словами</returns>
         public static StringBuilder Leng(string ss)
         {
             StringBuilder max = new StringBuilder();
@@ -48,6 +68,11 @@ namespace lesson5
             return max;
         }
 
+        /// <summary>
+        /// считает и выводит частоту встречи слов в тексте
+        /// </summary>
+        /// <param name="ss">текст</param>
+        /// <param name="slo">массив слов для которых считать частоту</param>
         public static void Chast(string ss, string[] slo)
         {
             Dictionary<string, int> openWith =new Dictionary<string, int>();
