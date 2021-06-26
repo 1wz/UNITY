@@ -1,0 +1,10 @@
+C:\Users\Админ\source\repos\lesson7\app1\bin\Debug\app1.exe.config
+C:\Users\Админ\source\repos\lesson7\app1\bin\Debug\app1.exe
+C:\Users\Админ\source\repos\lesson7\app1\bin\Debug\app1.pdb
+C:\Users\Админ\source\repos\lesson7\app1\obj\Debug\app1.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\lesson7\app1\obj\Debug\app1.Form1.resources
+C:\Users\Админ\source\repos\lesson7\app1\obj\Debug\app1.Properties.Resources.resources
+C:\Users\Админ\source\repos\lesson7\app1\obj\Debug\app1.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\lesson7\app1\obj\Debug\app1.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\lesson7\app1\obj\Debug\app1.exe
+C:\Users\Админ\source\repos\lesson7\app1\obj\Debug\app1.pdb

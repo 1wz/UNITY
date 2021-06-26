@@ -1,0 +1,9 @@
+C:\Users\Админ\source\repos\lesson7\app\bin\Debug\app.exe.config
+C:\Users\Админ\source\repos\lesson7\app\bin\Debug\app.exe
+C:\Users\Админ\source\repos\lesson7\app\bin\Debug\app.pdb
+C:\Users\Админ\source\repos\lesson7\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\lesson7\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\Админ\source\repos\lesson7\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\lesson7\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\lesson7\app\obj\Debug\app.exe
+C:\Users\Админ\source\repos\lesson7\app\obj\Debug\app.pdb
