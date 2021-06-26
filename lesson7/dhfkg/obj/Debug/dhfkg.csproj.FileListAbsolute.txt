@@ -1,0 +1,7 @@
+C:\Users\Админ\source\repos\lesson7\dhfkg\bin\Debug\dhfkg.exe.config
+C:\Users\Админ\source\repos\lesson7\dhfkg\bin\Debug\dhfkg.exe
+C:\Users\Админ\source\repos\lesson7\dhfkg\bin\Debug\dhfkg.pdb
+C:\Users\Админ\source\repos\lesson7\dhfkg\obj\Debug\dhfkg.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\lesson7\dhfkg\obj\Debug\dhfkg.exe
+C:\Users\Админ\source\repos\lesson7\dhfkg\obj\Debug\dhfkg.pdb
+C:\Users\Админ\source\repos\lesson7\dhfkg\obj\Debug\dhfkg.csprojAssemblyReference.cache
