@@ -1,0 +1,9 @@
+C:\Users\Админ\source\repos\lesson8\App5\bin\Debug\App5.exe.config
+C:\Users\Админ\source\repos\lesson8\App5\bin\Debug\App5.exe
+C:\Users\Админ\source\repos\lesson8\App5\bin\Debug\App5.pdb
+C:\Users\Админ\source\repos\lesson8\App5\obj\Debug\App5.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\lesson8\App5\obj\Debug\App5.Properties.Resources.resources
+C:\Users\Админ\source\repos\lesson8\App5\obj\Debug\App5.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\lesson8\App5\obj\Debug\App5.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\lesson8\App5\obj\Debug\App5.exe
+C:\Users\Админ\source\repos\lesson8\App5\obj\Debug\App5.pdb

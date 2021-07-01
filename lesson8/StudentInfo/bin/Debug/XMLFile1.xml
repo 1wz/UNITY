@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <word>
+    <slovo>apple</slovo>
+    <perevod>яблоко</perevod>
+  </word>
+  <word>
+    <slovo>ball</slovo>
+    <perevod>мяч</perevod>
+  </word>
+  <word>
+    <slovo>carrot</slovo>
+    <perevod>морковь</perevod>
+  </word>
+  <word>
+    <slovo>rabbit</slovo>
+    <perevod>кролик</perevod>
+  </word>
+  <word>
+    <slovo>sun</slovo>
+    <perevod>солнце</perevod>
+  </word>
+  <word>
+    <slovo>tree</slovo>
+    <perevod>дерево</perevod>
+  </word>
+</ArrayOfWord>
