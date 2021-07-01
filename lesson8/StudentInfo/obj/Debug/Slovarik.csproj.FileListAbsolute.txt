@@ -1,0 +1,10 @@
+C:\Users\Админ\source\repos\lesson8\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\Админ\source\repos\lesson8\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\Админ\source\repos\lesson8\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\Админ\source\repos\lesson8\StudentInfo\obj\Debug\Languege.Form1.resources
+C:\Users\Админ\source\repos\lesson8\StudentInfo\obj\Debug\StudentInfo.Properties.Resources.resources
+C:\Users\Админ\source\repos\lesson8\StudentInfo\obj\Debug\Slovarik.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\lesson8\StudentInfo\obj\Debug\Slovarik.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\lesson8\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\Админ\source\repos\lesson8\StudentInfo\obj\Debug\StudentInfo.pdb
+C:\Users\Админ\source\repos\lesson8\StudentInfo\obj\Debug\Slovarik.csprojAssemblyReference.cache
